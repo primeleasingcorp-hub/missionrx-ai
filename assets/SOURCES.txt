@@ -1,0 +1,5 @@
+Manrope: https://fonts.google.com/specimen/Manrope — SIL Open Font License, Google Fonts.
+Fonts downloaded from fonts.gstatic.com. Pharmacy pathway and brand geometry authored for this site.
+Beacon submission reference: https://support.beaconchannelmanagement.com/en/articles/17644303-how-to-submit-claims-data-in-beacon-rebate-model
+Beacon SDK reference: https://support.beaconchannelmanagement.com/en/articles/9589827-rebate-model-frequently-asked-questions
+Checked November 18, 2026. No commercial affiliation or program eligibility is asserted.
