@@ -1,4 +1,4 @@
-# MissionRx AI
+# CommunityRx AI
 
 ## Pharmacy & 340B Advisory
 
